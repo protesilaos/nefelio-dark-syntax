@@ -2,13 +2,13 @@
 
 High-contrast with vivid colours. Inspired by nebulae. The most prevalent colours are variants of magenta, green, cyan, violet, and blue.
 
-*Nefelio* comes in standalone light and dark version (see further info below).
+*Nefelio* comes in standalone light and dark versions (see further info below).
 
 ## Screenshots
 
 ![nefelio dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/nefelio/img/nefelio_dark_sample.png)
 
-*The font in the screenshot is [Hack](https://github.com/chrissimpkins/Hack), set at 14px*.  
+*The font in the screenshot is [Hack](https://github.com/chrissimpkins/Hack)*.  
 *Demo code by http://codemirror.net/mode/javascript/index.html*  
 *The UI theme is https://atom.io/themes/atom-material-ui*.
 
